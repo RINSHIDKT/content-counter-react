@@ -1,0 +1,27 @@
+.main-count{
+    text-align: center;
+    margin: auto;
+    margin-top: 16%;
+    background-color: brown;
+    border: 3px solid red;
+    width: 30%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 8px;
+}
+.count-head{
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.count-count{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.count-btn{
+    padding: 10px 10px;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
